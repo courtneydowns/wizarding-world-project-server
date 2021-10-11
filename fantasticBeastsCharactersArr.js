@@ -114,3 +114,7 @@ Character13 = new FantasticBeastCharacter(
 Character14 = new FantasticBeastCharacter(
   "Abernathy", "Human", "Male", "Before 1909 (likely)", "Alive", "American", "N/A", "N/A", "Unknown length, wood and core", "N/A", "Brown", "Brown", "N/A", "N/A", "N/A", "N/A", "N/A", "Supervisor for the Wand Permit Office of the Magical Congress of the United States of America (formerly)", ["Magical Congress of the United States of America (formerly)", "Wand Permit Office (formerly)", "Gellert Grindelwald", "The Alliance"], "https://harrypotter.fandom.com/wiki/Abernathy"
 )
+
+Character15 = new FantasticBeastCharacter(
+  "Gellert Grindelwald", "Human", "Male", "Between summer 1882 and summer 1883",
+)
